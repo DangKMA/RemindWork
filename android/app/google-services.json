@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745496361944",
+    "project_id": "remindwork-e38ab",
+    "storage_bucket": "remindwork-e38ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745496361944:android:a79146901a28972e0a10ad",
+        "android_client_info": {
+          "package_name": "com.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745496361944-54auapsskseisgkudb47qlkt57njlur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUqZjpr8ftP-rMzsyW7czvvB0K8FS_5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745496361944-54auapsskseisgkudb47qlkt57njlur2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
